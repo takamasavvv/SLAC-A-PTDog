@@ -1,2 +1,2 @@
 # SLAC-A-TelemetryDog
-Telemetry, Power management and Watch dog
+Power management, Telemetry and Watch dog
